@@ -1,0 +1,9 @@
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\bin\Debug\WinRotate.exe.config
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\obj\Debug\WinRotate.csprojResolveAssemblyReference.cache
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\obj\Debug\WinRotate.Form1.resources
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\obj\Debug\WinRotate.Properties.Resources.resources
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\obj\Debug\WinRotate.csproj.GenerateResource.Cache
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\bin\Debug\WinRotate.exe
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\bin\Debug\WinRotate.pdb
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\obj\Debug\WinRotate.exe
+c:\users\vb\documents\visual studio 2013\Projects\WinRotate\WinRotate\obj\Debug\WinRotate.pdb
